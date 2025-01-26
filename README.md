@@ -1,6 +1,6 @@
 # Ransomware Data Analysis 
 
-a project to practice Data analytics skills using python and for Data Anaytics in Cybersecurity subject for my Academic degree.
+a project to practice Data analytics skills using python and for Data Analytics in Cybersecurity subject for my Academic degree.
 
 Dataset Link [Here](https://www.kaggle.com/datasets/joebeachcapital/ransomware-attacks/data)
 
